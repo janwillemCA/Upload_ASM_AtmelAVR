@@ -14,7 +14,7 @@ Example.
   
 To create a symlink to execute this script everywere use:  <br />
 
-sudo ln -s /full/path/to/your/file /usr/local/bin/name_of_new_command
-chmod +x /full/path/to/your/file
+sudo ln -s /full/path/to/your/file /usr/local/bin/name_of_new_command <br />
+chmod +x /full/path/to/your/file <br />
 
  
