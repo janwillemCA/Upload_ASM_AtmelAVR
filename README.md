@@ -1,8 +1,8 @@
 # Upload_ASM_AtmelAVR
 
 ## prerequisite: 
-#### AVR-GCC <br />
-#### AVRDUDE <br />
+###### AVR-GCC 
+###### AVRDUDE 
 
 Unix Shell script to assemble and upload your Assembly code to an Arduino or Atmel AVR Microcontroller <br />
 
